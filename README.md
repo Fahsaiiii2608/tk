@@ -1,39 +1,60 @@
-#SELFBOT_MAN_PC_NEW
+# Chuckyfix
+BOT PROTECT CREATOR & ADMIN & 5 BOT + 1 GHOST.
+------
+GET TOKEN :
+------
+- `Google Chrome`
+- `http://www.tanaka.co.id:6969`
+- `Bot Alphat : https://github.com/Nadyatjia/AlphatTJ`
+-
+Cara Install Bot Chucky :
+------
+Di C9 :
+- Ketik -> `sudo apt-get update`
+- Ketik -> `sudo apt-get install git`
+- Ketik -> `sudo apt-get install python-sofware-properties`
+- Ketik -> `sudo pip install rsa`
+- Ketik -> `sudo pip install thrift==0.9.3`
+- Ketik -> `sudo pip install requests`
+- Ketik -> `sudo pip install requests==2.5.3`
+- Ketik -> `sudo pip install bs4`
+- Ketik -> `sudo pip install gtts`
+- Ketik -> `sudo pip install googletrans`
+- Ketik -> `git clone https://github.com/Nadyatjia/Chuckyfix`
+- Ketik -> `cd Chucky`
+- Ketik -> `python Chucky.py`
 
-[New] Bot Saling Backup Dan Admin Di Undang Jika Ke Kick
+Di Termux :
+- Ketik -> `pkg update`
+- Ketik -> `pkg install git`
+- Ketik -> `pkg install python2`
+- Ketik -> `pip2 install rsa`
+- Ketik -> `pip2 install thrift==0.9.3`
+- Ketik -> `pip2 install requests`
+- Ketik -> `pip2 install bs4`
+- Ketik -> `pip2 install gtts`
+- Ketik -> `pip2 install googletrans`
+- Ketik -> `git clone https://github.com/Nadyatjia/Chuckyfix`
+- Ketik -> `cd Chucky`
+- Ketik -> `python2 Chucky.py`
 
-#Bot Protect Versi 5 Bot + 1 Backup
+Cara Menjalankan Bot Kembali :
+------
+Di C9 :
+- Ketik -> `cd Chucky`
+- Ketik -> `python Chucky.py`
 
-DoniSatria_OnePiece 5 Bot
-DoniSatria BOT Protect Versi TCR
-Bot Protect TCR Versi 5 Bot + Backup
-Bot Line Versi Protect Group -Siapkan 6 Akun Bot Line Clone
+Di Termux :
+- Ketik -> `cd Chucky`
+- Ketik -> `python2 Chucky.py`
 
-Fungsinya Kelebihan : 
-1.Protect Group Line 
-2.Dapat Menambah Owner & Admin Bot
-3.Command Bisa Dipakai oleh Admin 
-4.Bot Tidak Saling Kick Ketika Ada Yang Terkick 
-5.Jika Ingin Protect Lebih Dari 1 Group, Kalian Tidak Wajib ada di Semua Group Tersebut
 
-Kelemahan: 1.BOT Tidak Aktif Ketika Bot Induk Tidak ada di Dalam Group
+Credit By@ Nadya Sutjiadi.
+------
+- `Follow My Instagram : nadya.tjia`
+- `Add My ID LINE : nad_nad. (pake titik)`
 
-Cara Instal :
+Thx To :
+------
+- `LINE-TCR TEAM`
 
-pkg install python -y
-pkg install python2 -y
-pkg install git -y
-git clone https://github.com/selfbotman9999/SELFBOT_MAN_PC_New
-pip2 install rsa
-pip2 install thrift==0.9.3
-pip2 install requests
-Cara Menjalankan Botnya :
-
-cd SELFBOT_MAN_PC_New
-python2 5New.py
-
-Add Me Line => 1ove..neverdie
-
-Thanks For : Indonesia @ Thailand
-
-Team SELFBOT_MAN_PROTECT
