@@ -12,7 +12,7 @@ from gtts import gTTS
 from googletrans import Translator
 
 cl = LINEVIT.LINE()
-cl.login(token="
+cl.log("Auth Token : " + str(cl.authToken))
 cl.loginResult()
 
 #ki1 = LINEVIT.LINE()
