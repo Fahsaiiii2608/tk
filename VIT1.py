@@ -353,11 +353,11 @@ targets = []
 mid = cl.getProfile().mid
 Bots = ["",mid]
 self = ["",mid]
-admin = ""
+admin = "u42465e675d3eaf98312c2a9a418b3ba2"
 admsa = ""
-owner = ""
-adminMID = ""
-Creator=""
+owner = "u42465e675d3eaf98312c2a9a418b3ba2"
+adminMID = "u42465e675d3eaf98312c2a9a418b3ba2"
+Creator="u42465e675d3eaf98312c2a9a418b3ba2"
 wait = {
     "alwayRead":False,
     "detectMention":True,    
