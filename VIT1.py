@@ -12,7 +12,7 @@ from gtts import gTTS
 from googletrans import Translator
 
 cl = LINEVIT.LINE()
-cl.login(token="
+cl.login(token=u42465e675d3eaf98312c2a9a418b3ba2"
 cl.loginResult()
 
 #ki1 = LINEVIT.LINE()
@@ -65,7 +65,7 @@ sys.setdefaultencoding('utf-8')
 helpMessage ="""
 ╔═════════════════════
 ║                [SELF BOT]
-║[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]
+║[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]
 ╚═════════════════════
    ╔══════════════════
    ║     [☬ ชุดคำสั่ง ที่ 1 ☬]
@@ -131,16 +131,16 @@ helpMessage ="""
 ╚═════════════════════
 ──┅═✥===========✥═┅──
 ╔═════════════════════
-║ [By.☬ധู้さန້ণق↔ധഖาໄฟ☬]
-║  ติดต่อ [LINE ID :  4545272]
+║ [By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]
+║  ติดต่อ [LINE ID : fahsaiiii.2608]
 ╚═════════════════════
-ลิ้ง:  http://line.me/ti/p/9r-uE5EU09
+ลิ้ง:  http://line.me/ti/p/~fahsaiiii.2608
 ──┅═✥===========✥═┅──
 """
 helpMessage2 ="""
 ╔═════════════════════
 ║                [SELF BOT]
-║[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]
+║[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]
 ╚═════════════════════
    ╔══════════════════
    ║     [☬ ชุดคำสั่ง ที่ 2 ☬]
@@ -221,16 +221,16 @@ helpMessage2 ="""
 ╚═════════════════════
 ──┅═✥===========✥═┅──
 ╔═════════════════════
-║ [By.☬ധู้さန້ণق↔ധഖาໄฟ☬]
-║  ติดต่อ [LINE ID :  4545272]
+║ [By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]
+║  ติดต่อ [LINE ID : fahsaiiii.2608]
 ╚═════════════════════
-ลิ้ง:  http://line.me/ti/p/9r-uE5EU09
+ลิ้ง:  http://line.me/ti/p/~fahsaiiii.2608
 ──┅═✥===========✥═┅──
 """
 helpMessage3 ="""
 ╔═════════════════════
 ║                [SELF BOT]
-║[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]
+║[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]
 ╚═════════════════════
    ╔══════════════════
    ║     [☬ ชุดคำสั่ง ที่ 3 ☬]
@@ -280,10 +280,10 @@ helpMessage3 ="""
 ╚══════════════════
 ──┅═✥===========✥═┅──
 ╔═════════════════════
-║[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]
-║  ติดต่อ [LINE ID :  4545272]
+║[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]
+║  ติดต่อ [LINE ID : fahsaiiii.2608]
 ╚═════════════════════
-ลิ้ง:  http://line.me/ti/p/9r-uE5EU09
+ลิ้ง:  http://line.me/ti/p/~fahsaiiii.2608
 ──┅═✥===========✥═┅──      
 ╔════════════════════
 ║     ✦เปิด/ปิดข้อความต้อนรับ✦
@@ -323,10 +323,10 @@ helpMessage3 ="""
 ╚═════════════════════
 ──┅═✥===========✥═┅──
 ╔═════════════════════
-║[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]
-║  ติดต่อ [LINE ID :  4545272]
+║[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]
+║  ติดต่อ [LINE ID : fahsaiiii.2608]
 ╚═════════════════════
-ลิ้ง:  http://line.me/ti/p/9r-uE5EU09
+ลิ้ง:  http://line.me/ti/p/~fahsaiiii.2608
 ──┅═✥===========✥═┅──
 """
 
@@ -372,7 +372,7 @@ wait = {
     'leaveRoom':True,
     'timeline':True,
     'autoAdd':True,
-    'message':"[ตอบรับ อัตโนมัติ]\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]\nhttp://line.me/ti/p/9r-uE5EU09",
+    'message':"[ตอบรับ อัตโนมัติ]\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]\nhttp://line.me/ti/p/~fahsaiiii.2608",
     "lang":"JP",
     "commentOn":True,
     "comment1":"""
@@ -380,15 +380,15 @@ wait = {
                   [ SELF BOT ]
   [ รับติดตั้ง เชลบอท ราคาประหยัด ]
 
-     [By.☬ധู้さန້ণق↔ധഖาໄฟ☬]
-   http://line.me/ti/p/9r-uE5EU09
+     [By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]
+   http://line.me/ti/p/~fahsaiiii.2608
 
    ─██─███─███─██─██─██▄█
    ─██─▀██▄██▀─▀█▄█▀─██▀█
    ▄██▄▄█▀▀▀─────▀──▄██▄▄█
 
-           [   By. ผู้สร้าง พญาไฟ ]
-   http://line.me/ti/p/9r-uE5EU09
+           [   By. ผู้สร้าง ꪨꪊูꪝ้ๅ ]
+   http://line.me/ti/p/~fahsaiiii.2608
 """,
     "acommentOn":False,
     "bcommentOn":False,
@@ -2410,11 +2410,11 @@ def bot(op):
                         pass
             elif msg.text.lower() in ["admins","mee","ผู้สร้าง"]:
                 msg.contentType = 13
-                adm = 'uf0bd4970771f26a8cef66473d59bcc69'
+                adm = 'u42465e675d3eaf98312c2a9a418b3ba2'
                 msg.contentMetadata = {'mid': adm}
                 cl.sendMessage(msg)
-                cl.sendText(msg.to,"Add Line http://line.me/ti/p/9r-uE5EU09")
-                cl.sendText(msg.to,"👆 สนใจ บอท ทักมาคุย กันได้นะครับ 👆")
+                cl.sendText(msg.to,"Add Line http://line.me/ti/p/~fahsaiiii.2608")
+                cl.sendText(msg.to,"👆 สนใจ บอท ทักมาคุย กันได้นะคะ 👆")
 #=========================================
             elif msg.text in ["ของขวัญ","Gift","แจก"]:
                 msg.contentType = 9
@@ -2635,10 +2635,10 @@ def bot(op):
                         ki9.acceptGroupInvitationByTicket(msg.to,Ticket)
                         ki10.acceptGroupInvitationByTicket(msg.to,Ticket)
 
-                        ki1.sendText(msg.to,"[SELF BOT\ทBy:☬ധู้さန້ণق↔ധഖาໄฟ☬ ]")
+                        ki1.sendText(msg.to,"[SELF BOT\ทBy:☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
                         ki2.sendText(msg.to,"[Do not think  will try.]")
-                        ki3.sendText(msg.to,"[ By: ☬ധู้さန້ণق↔ധഖาໄฟ☬ ]")
-                        ki1.sendText(msg.to,"Hello " + str(ginfo.name) + "\n[By:☬ധู้さန້ণق↔ധഖาໄฟ☬ ]")
+                        ki3.sendText(msg.to,"[ By: ☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
+                        ki1.sendText(msg.to,"Hello " + str(ginfo.name) + "\n[By:☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
                         G = cl.getGroup(msg.to)
                         ginfo = cl.getGroup(msg.to)
                         G.preventJoinByTicket = True
@@ -2684,25 +2684,25 @@ def bot(op):
                 if msg.toType == 2:
                     ginfo = cl.getGroup(msg.to)
                     try:
-                        ki1.sendText(msg.to,"Bye~Bye\nลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]")
+                        ki1.sendText(msg.to,"Bye~Bye\nลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
                         ki1.leaveGroup(msg.to)
-                        ki2.sendText(msg.to,"Bye~Bye\nลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]")
+                        ki2.sendText(msg.to,"Bye~Bye\nลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
                         ki2.leaveGroup(msg.to)
-                        ki3.sendText(msg.to,"Bye~Bye\nลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]")
+                        ki3.sendText(msg.to,"Bye~Bye\nลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
                         ki3.leaveGroup(msg.to)
-                        ki4.sendText(msg.to,"Bye~Bye\nลาก่อย􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]")
+                        ki4.sendText(msg.to,"Bye~Bye\nลาก่อย􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
                         ki4.leaveGroup(msg.to)
-                        ki5.sendText(msg.to,"Bye~Bye\nลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]")
+                        ki5.sendText(msg.to,"Bye~Bye\nลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
                         ki5.leaveGroup(msg.to)
-                        ki6.sendText(msg.to,"Bye~Bye\nลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]]")
+                        ki6.sendText(msg.to,"Bye~Bye\nลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
                         ki6.leaveGroup(msg.to)
-                        ki7.sendText(msg.to,"Bye~Bye\nลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]")
+                        ki7.sendText(msg.to,"Bye~Bye\nลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
                         ki7.leaveGroup(msg.to)
-                        ki8.sendText(msg.to,"Bye~Bye\nลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]")
+                        ki8.sendText(msg.to,"Bye~Bye\nลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
                         ki8.leaveGroup(msg.to)
-                        ki9.sendText(msg.to,"Bye~Bye\nลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]")
+                        ki9.sendText(msg.to,"Bye~Bye\nลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
                         ki9.leaveGroup(msg.to)
-                        ki10.sendText(msg.to,"Bye~Bye\ลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By ☬ധู้さန້ণق↔ധഖาໄฟ☬]")
+                        ki10.sendText(msg.to,"Bye~Bye\ลาก่อย 􀜁􀄯􏿿"  +  str(ginfo.name)  + "\n[By ☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
                         ki10.leaveGroup(msg.to)
 
                     except:
@@ -2729,7 +2729,7 @@ def bot(op):
 
 
             elif "#v10" in msg.text:
-                cl.sendText(msg.to,"""[SELF BOT]\n[By:☬ധู้さန້ণق↔ധഖาໄฟ☬]")
+                cl.sendText(msg.to,"""[SELF BOT]\n[By:☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
 คำสั่งบอท siri
 คำนี้เป็นการล็อกห้องสั่งแล้วทุกคนจะทำอะไรไม่ได้นอกจากเจ้าของห้องทำได้คนเดียวเช่น•เปิดลิงค์•เชิญเพื่อน•เปลี่ยนรูปกลุ่ม•เปลี่ยนชื่อกลุ่มไรแบบนี้• บอทจะไม่เตะเเอทมินทุกกรณี
 มีตั้งเเต่ชุดบอท 12-37 บอท
@@ -2798,11 +2798,11 @@ Viewlastseen   สั่งอ่าน
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 สนใจติดต่อที่
-By: ☬ധู้さန້ণق↔ധഖาໄฟ☬
+By: ☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ
 
-LINE ID 4545272
+LINE ID fahsaiiii.2608
 
-http://line.me/ti/p/9r-uE5EU09
+http://line.me/ti/p/~fahsaiiii.2608
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 """)
 
@@ -2953,7 +2953,7 @@ http://line.me/ti/p/9r-uE5EU09
 				msg.contentType = 13
 				msg.contentMetadata = {'mid': mid}
 				cl.sendMessage(msg)
-				cl.sendText(msg.to,"[SELFBOT\nBy:☬ധู้さန້ণق↔ധഖาໄฟ☬]")
+				cl.sendText(msg.to,"[SELFBOT\nBy:☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
             elif "ไอดี" == msg.text:
                 key = msg.to
                 cl.sendText(msg.to, key)
@@ -2970,8 +2970,8 @@ http://line.me/ti/p/9r-uE5EU09
                 msg.contentMetadata = {"mid":mmid}
                 cl.sendMessage(msg)
 
- #           elif "Phet Keyy" in msg.text:
- #               cl.sendText(msg.to,""" 􀜁􀇔􏿿􀜁􀇔􏿿[{PHET HACK BOT}] 􀜁􀇔􏿿􀜁􀇔􏿿 \n\n 􀜁􀇔􏿿 key Only Kicker 􀜁􀇔􏿿 #\n\n􀜁􀇔􏿿[Kb1 in]\n􀜁􀇔􏿿[1Aditname:]\n􀜁􀇔􏿿[B Cancel]\n􀜁􀇔􏿿[kick @]\n􀜁􀇔􏿿[Ban @]\n􀜁􀇔􏿿[kill]\n􀜁􀇔􏿿[BotChat]\n􀜁􀇔􏿿[Respons]\n􀜁􀇔􏿿[Pb1 Gift]\n􀜁􀇔􏿿[Pb1 bye]\n\n
+ #           elif "Fah Keyy" in msg.text:
+ #               cl.sendText(msg.to,""" 􀜁􀇔􏿿􀜁􀇔􏿿[{Fah HACK BOT}] 􀜁􀇔􏿿􀜁􀇔􏿿 \n\n 􀜁􀇔􏿿 key Only Kicker 􀜁􀇔􏿿 #\n\n􀜁􀇔􏿿[Kb1 in]\n􀜁􀇔􏿿[1Aditname:]\n􀜁􀇔􏿿[B Cancel]\n􀜁􀇔􏿿[kick @]\n􀜁􀇔􏿿[Ban @]\n􀜁􀇔􏿿[kill]\n􀜁􀇔􏿿[BotChat]\n􀜁􀇔􏿿[Respons]\n􀜁􀇔􏿿[Pb1 Gift]\n􀜁􀇔􏿿[Pb1 bye]\n\n
 
 #❦❧〖฿❂Ŧ〗☞ᵀËÄM ທஇລ❂ق B❂T✓
 #​❦❧ ᵀËÄM ℓℓπ้ी૪ B❂T ✓
@@ -3133,16 +3133,16 @@ http://line.me/ti/p/9r-uE5EU09
                     msg.contentMetadata = {u'MENTION':json.dumps({"MENTIONEES":d})}
                     ki1.sendMessage(msg) 
             elif msg.text in ["Bot?","เทส"]:
-                ki1.sendText(msg.to,"😈คิกเกอร๋.1 รายงานตัว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]\n\n[ลิ้ง] http://line.me/ti/p/9r-uE5EU09 ")
-                ki2.sendText(msg.to,"😈คิกเกอร์.2 รายงานตัว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]\n\n[ลิ้ง] http://line.me/ti/p/9r-uE5EU09 ")
-                ki3.sendText(msg.to,"😈คิกเกอร์.3 รายงานตัว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]\n\n[ลิ้ง] http://line.me/ti/p/9r-uE5EU09 ")
-                ki4.sendText(msg.to,"😈คิกเกอร์.4 รายงานตัว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]\n\n[ลิ้ง] http://line.me/ti/p/9r-uE5EU09 ")
-                ki5.sendText(msg.to,"😈คิกเกอร์.5 รายงานตัว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]\n\n[ลิ้ง] http://line.me/ti/p/9r-uE5EU09 ")
-                ki6.sendText(msg.to,"😈คิกเกอร์.6 รายงานตัว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]\n\n[ลิ้ง] http://line.me/ti/p/9r-uE5EU09 ")
-                ki7.sendText(msg.to,"😈คิกเกอร์.7 รายงานต้ว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]\n\n[ลิ้ง] http://line.me/ti/p/9r-uE5EU09 ")
-                ki8.sendText(msg.to,"😈คิกเกอร์.8 รายงานตีว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]\n\n[ลิ้ง] http://line.me/ti/p/9r-uE5EU09 ")
-                ki9.sendText(msg.to,"😈คิกเกอร์.9 รายงานตัว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]\n\n[ลิ้ง] http://line.me/ti/p/9r-uE5EU09 ")
-                ki10.sendText(msg.to,"😈คิกเกอร์.10 รายงานตัว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]\n\n[ลิ้ง] http://line.me/ti/p/9r-uE5EU09 ")
+                ki1.sendText(msg.to,"😈คิกเกอร๋.1 รายงานตัว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]\n\n[ลิ้ง] http://line.me/ti/p/~fahsaiiii.2608 ")
+                ki2.sendText(msg.to,"😈คิกเกอร์.2 รายงานตัว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]\n\n[ลิ้ง] http://line.me/ti/p/~fahsaiiii.2608 ")
+                ki3.sendText(msg.to,"😈คิกเกอร์.3 รายงานตัว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]\n\n[ลิ้ง] http://line.me/ti/p/~fahsaiiii.2608 ")
+                ki4.sendText(msg.to,"😈คิกเกอร์.4 รายงานตัว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]\n\n[ลิ้ง] http://line.me/ti/p/~fahsaiiii.2608 ")
+                ki5.sendText(msg.to,"😈คิกเกอร์.5 รายงานตัว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]\n\n[ลิ้ง] http://line.me/ti/p/~fahsaiiii.2608 ")
+                ki6.sendText(msg.to,"😈คิกเกอร์.6 รายงานตัว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]\n\n[ลิ้ง] http://line.me/ti/p/~fahsaiiii.2608 ")
+                ki7.sendText(msg.to,"😈คิกเกอร์.7 รายงานต้ว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]\n\n[ลิ้ง] http://line.me/ti/p/~fahsaiiii.2608 ")
+                ki8.sendText(msg.to,"😈คิกเกอร์.8 รายงานตีว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]\n\n[ลิ้ง] http://line.me/ti/p/~fahsaiiii.2608 ")
+                ki9.sendText(msg.to,"😈คิกเกอร์.9 รายงานตัว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]\n\n[ลิ้ง] http://line.me/ti/p/~fahsaiiii.2608 ")
+                ki10.sendText(msg.to,"😈คิกเกอร์.10 รายงานตัว😈\n[SELF BOT]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]\n\n[ลิ้ง] http://line.me/ti/p/~fahsaiiii.2608 ")
 
             elif "/พูด " in msg.text:
                                 bctxt = msg.text.replace("/พูด ","")
@@ -3420,7 +3420,7 @@ http://line.me/ti/p/9r-uE5EU09
 #========================================
             elif msg.text in ["เชคค่า","เช็คค่า","Set"]:
                 print "Setting pick up..."
-                md = "SELF BOT\nBy:☬ധู้さန້ণق↔ധഖาໄฟ☬\n\n"
+                md = "SELF BOT\nBy:☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ\n\n"
                 if wait["likeOn"] == True: md+="􀬁􀆐􏿿 ออโต้ไลค์ : ✔ 􀜁􀄯􏿿\n"
                 else:md+="􀬁􀆐􏿿 ออโต้ไลค์ : ❌ 􀜁􀄰􏿿\n"
                 if wait["alwayRead"] == True: md+="􀬁􀆐􏿿 อ่าน : ✔ 􀜁􀄯??\n"
@@ -4095,7 +4095,7 @@ http://line.me/ti/p/9r-uE5EU09
 #                for g in gs.members:
 #                    if _nametarget == g.displayName:
 #                       cl.sendText(msg.to,"เริ่มทำการรัน")
-#                       cl.sendText(g.mid,"[☬Ŧ€ΆM฿❂Ŧ↔Pђãỳãƒir€☬]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]\n http://line.me/ti/p/9r-uE5EU09")
+#                       cl.sendText(g.mid,"[☬Ŧ€ΆM฿❂Ŧ↔Fah]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]\n http://line.me/ti/p/~fahsaiiii.2608")
 #                       cl.sendText(msg.to, "ทำการรันเรียบร้อย")
 #                       print "Done spam"
 #========================================
@@ -4103,7 +4103,7 @@ http://line.me/ti/p/9r-uE5EU09
             elif msg.text.lower() == 'ออน':  
                 cl.sendText(msg.to, "โปรดรอสักครู่....")
                 eltime = time.time() - mulai
-                van = "[SELF BOT]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]\n\nระยะเวลาที่บอททำงาน\n"+waktu(eltime)
+                van = "[SELF BOT]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ\n\nระยะเวลาที่บอททำงาน\n"+waktu(eltime)
                 cl.sendText(msg.to,van)
 #========================================
 
@@ -4481,7 +4481,7 @@ http://line.me/ti/p/9r-uE5EU09
                 print "[Command]Speed palsu executed"
 
             elif msg.text in ["Keybot"]:
-                ki.sendText(msg.to, "[SELFBOT\nBy.☬ധู้さန້ণق↔ധഖาໄฟ☬]\n\n❂͜͡☆➣ Namelock on\n❂͜͡☆➣ Namelock off\n❂͜͡☆➣ Blockinvite on\n❂͜͡☆➣ Blockinvite off\n❂͜͡☆➣ Backup on\n❂͜͡☆➣ Backup off\n\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]")
+                ki.sendText(msg.to, "[SELFBOT\nBy.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]\n\n❂͜͡☆➣ Namelock on\n❂͜͡☆➣ Namelock off\n❂͜͡☆➣ Blockinvite on\n❂͜͡☆➣ Blockinvite off\n❂͜͡☆➣ Backup on\n❂͜͡☆➣ Backup off\n\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]")
 
 #========================================
             elif msg.text in ["กลับร่าง","Mebb"]:
@@ -4542,7 +4542,7 @@ http://line.me/ti/p/9r-uE5EU09
                         x.preventJoinByTicket = False
                         cl.updateGroup(x)
                     gurl = cl.reissueGroupTicket(msg.to)
-                    cl.sendText(msg.to,"[SELF BOT]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]\nline://ti/g/" + gurl)
+                    cl.sendText(msg.to,"[SELF BOT]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]\nline://ti/g/" + gurl)
                 else:
                     if wait["lang"] == "JP":
                         cl.sendText(msg.to,"Can not be used outside the group")
@@ -4633,8 +4633,8 @@ http://line.me/ti/p/9r-uE5EU09
                     else:
                         pass
 #-------------------------------------------------
-            elif msg.text in ["เปิดหมด","Phet All on","Phet all on"]:
-                        cl.sendText(msg.to,"[SELF BOT]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]")
+            elif msg.text in ["เปิดหมด","Fah All on","Fah all on"]:
+                        cl.sendText(msg.to,"[SELF BOT]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
                         cl.sendText(msg.to,"Please wait......")
                         cl.sendText(msg.to,"Turn on all protection")
                         cl.sendText(msg.to,"Qr:on")
@@ -4647,8 +4647,8 @@ http://line.me/ti/p/9r-uE5EU09
                         cl.sendText(msg.to,"Blockinvite:on")
 
 
-            elif msg.text in ["ปิดหมด","Phet All off","Phet all off"]:
-                        cl.sendText(msg.to,"[SELFBOT]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]")
+            elif msg.text in ["ปิดหมด","Fah All off","Fah all off"]:
+                        cl.sendText(msg.to,"[SELFBOT]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
                         cl.sendText(msg.to,"Please wait......")
                         cl.sendText(msg.to,"Turn off all protection")
                         cl.sendText(msg.to,"Qr:off")
@@ -4664,27 +4664,27 @@ http://line.me/ti/p/9r-uE5EU09
  
             elif msg.text in ["ทีมงาน"]:
                 msg.contentType = 13
-                cl.sendText(msg.to, "[TEAM SELFBOT]\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]")
-                cl.sendText(msg.to, "ผู้สร้าง.. SELFBOT\nBy.🔯ധู้さန້ণق↔ധഖาໄฟ🔯")
-                msg.contentMetadata = {'mid': 'uf0bd4970771f26a8cef66473d59bcc69'}
+                cl.sendText(msg.to, "[TEAM SELFBOT]\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
+                cl.sendText(msg.to, "ผู้สร้าง.. SELFBOT\nBy.🔯ധู้さန້ণق↔ꪨꪊูꪝ้ๅ🔯")
+                msg.contentMetadata = {'mid': 'u42465e675d3eaf98312c2a9a418b3ba2'}
                 cl.sendMessage(msg)
-                cl.sendText(msg.to, "ผู้จัดการ .SELFBOT\nBy.☬ധู้さန້ণق↔ധഖาໄฟ☬")
-                msg.contentMetadata = {'mid': 'u6c8aab6ee167a596be2cf045ee2f90df'}
+                cl.sendText(msg.to, "ผู้จัดการ .SELFBOT\nBy.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ")
+                msg.contentMetadata = {'mid': 'u42465e675d3eaf98312c2a9a418b3ba2'}
                 cl.sendMessage(msg)
-                cl.sendText(msg.to, "หวานใจ\nBy.ผู้สร้างพญาไฟ")
-                msg.contentMetadata = {'mid': 'u2743230861d1c637647d9ca2a8c1fc14'}
+                cl.sendText(msg.to, "หวานใจ\nBy.ꪨꪊูꪝ้ๅ")
+                msg.contentMetadata = {'mid': 'u42465e675d3eaf98312c2a9a418b3ba2'}
                 cl.sendMessage(msg)
                 cl.sendText(msg.to, "ประธาน:")
-                msg.contentMetadata = {'mid': 'u5b671f4148aa5bbec186b5b7cb295271'}
+                msg.contentMetadata = {'mid': 'u42465e675d3eaf98312c2a9a418b3ba2'}
                 cl.sendMessage(msg)
-                cl.sendText(msg.to, "รองประธาน:💫 By. พยัค")
-                msg.contentMetadata = {'mid': 'u7988143c47d3faacf1856a72011eea93'}
+                cl.sendText(msg.to, "รองประธาน:💫)
+                msg.contentMetadata = {'mid': 'u42465e675d3eaf98312c2a9a418b3ba2'}
                 cl.sendMessage(msg)
                 cl.sendText(msg.to, "รปภ.:SELFBOT")
-                msg.contentMetadata = {'mid': 'u5b671f4148aa5bbec186b5b7cb295271'}
+                msg.contentMetadata = {'mid': 'u42465e675d3eaf98312c2a9a418b3ba2'}
                 cl.sendMessage(msg)
-                cl.sendText(msg.to, "ตัวเเทนสมาชิก:By.บอล")
-                msg.contentMetadata = {'mid': 'ueabd832a84add1392a2ff758f97b3c8e'}
+                cl.sendText(msg.to, "ตัวเเทนสมาชิก")
+                msg.contentMetadata = {'mid': 'u42465e675d3eaf98312c2a9a418b3ba2'}
                 cl.sendMessage(msg)
 
 #========================================
@@ -5218,7 +5218,7 @@ http://line.me/ti/p/9r-uE5EU09
                  if jml > 500:
                      print "Terlalu Banyak Men 500+"
                  cnt = Message()
-                 cnt.text = "[SELF BOT\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]:\n" + str(jml) +  " Members"
+                 cnt.text = "[SELF BOT\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]:\n" + str(jml) +  " Members"
                  cnt.to = msg.to
                  cl.sendMessage(cnt)
 
@@ -6748,10 +6748,10 @@ http://line.me/ti/p/9r-uE5EU09
                 cl.sendMessage(cnt)
 
             elif msg.text in ["คท"]:
-                        cl.sendText(msg.to,"😆เช็คจัง กลัวบอทหลุด ล่ะสิ😆")
+                        cl.sendText(msg.to,"เช็คจัง กลัวบอทหลุดหละสิ")
 
             elif msg.text in ["เทสบอท"]:
-                        cl.sendText(msg.to,"SELF BOT\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬]")
+                        cl.sendText(msg.to,"SELF BOT\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
 
             elif msg.text in [".อยู่ไหม"]:
                         cl.sendText(msg.to,"อยู่...")
@@ -6813,7 +6813,7 @@ http://line.me/ti/p/9r-uE5EU09
             elif "/อ่าน" == msg.text.lower():
                     if msg.to in wait2['readPoint']:
                         if wait2["ROM"][msg.to].items() == []:
-                             cl.sendText(msg.to, "SELF BOT\n[By.☬ധู้さန້ণق↔ധഖาໄฟ☬] \n\nLurkers:\nNone")
+                             cl.sendText(msg.to, "SELF BOT\n[By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ] \n\nLurkers:\nNone")
                         else:
                             chiya = []
                             for rom in wait2["ROM"][msg.to].items():
@@ -6889,7 +6889,7 @@ http://line.me/ti/p/9r-uE5EU09
                 ki10.like(url[25:58], url[66:], likeType=1001)
                 ki10.comment(url[25:58], url[66:], wait["comment1"])
                 print ("AUTO LIKE SELFBOT")
-                print ("Auto Like By.☬ധู้さန້ণق↔ധഖาໄฟ☬")
+                print ("Auto Like By.☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ")
 
         if op.type == 15:
             if wait["Notifed"] == True:
@@ -6943,7 +6943,7 @@ http://line.me/ti/p/9r-uE5EU09
                 contact = cl.getContact(op.param2)
                 image = "http://dl.profile.line-cdn.net/" + contact.pictureStatus
                 cl.sendImageWithUrl(op.param1,image)
-                cl.sendText(op.param1,cl.getContact(op.param2).displayName + "\n\n[🙋ยินดีตอนรับ][By. ☬ധู้さန້ণق↔ധഖาໄฟ☬]")
+                cl.sendText(op.param1,cl.getContact(op.param2).displayName + "\n\n[🙋ยินดีตอนรับ][By. ☬ധู้さန້ণق↔ꪨꪊูꪝ้ๅ]")
                 print "MEMBER HAS JOIN THE GROUP"
 
         if op.type == 19:
